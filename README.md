@@ -17,7 +17,7 @@ Uma aplicação web moderna e responsiva para consulta de plantas medicinais, se
 ## Demonstração
 
 🔗 **[Link para demonstração](https://paulo-czr.github.io/base-de-conhecimento-plantas-medicinais/ )**  
-  ---
+
 ## Funcionalidades
   
 - **Busca Inteligente**: Encontre plantas por nome, propriedades ou benefícios
