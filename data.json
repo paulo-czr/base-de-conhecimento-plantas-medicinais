@@ -1,0 +1,580 @@
+[
+  {
+    "nome": "Boldo",
+    "nome_cientifico": "Peumus boldus",
+    "parte_utilizada": "Folhas",
+    "beneficios": "Auxilia na digestão, alivia dores de estômago, reduz gases.",
+    "modo_de_uso": "Infusão (chá).",
+    "dosagem": "1 xícara até 2x ao dia",
+    "contraindicacoes": "Gestantes, lactantes, pessoas com problemas hepáticos graves.",
+    "efeitos_colaterais": "Náuseas, irritação gástrica, diarreia em caso de uso excessivo.",
+    "curiosidade": "O cheiro característico vem de um óleo essencial chamado boldina.",
+    "link": "https://www.infoteca.cnptia.embrapa.br/bitstream/doc/812819/1/FOL74.pdf",
+    "tags": [
+      "Peumus boldus",
+      "digestão",
+      "azia",
+      "gases",
+      "chá",
+      "dores-de-estômago"
+    ]
+  },
+  {
+    "nome": "Hortelã",
+    "nome_cientifico": "Mentha spicata",
+    "parte_utilizada": "Folhas",
+    "beneficios": "Ajuda a aliviar sintomas de indigestão, gases e dores de cabeça.",
+    "modo_de_uso": "Infusão (chá) ou uso tópico em compressas.",
+    "dosagem": "1 xícara de chá até 2x ao dia.",
+    "contraindicacoes": "Evitar em casos de refluxo grave; uso excessivo pode causar irritação gástrica.",
+    "efeitos_colaterais": "Pode causar azia ou alergia em pessoas sensíveis.",
+    "curiosidade": "A hortelã possui mentol, composto responsável pela sensação de frescor.",
+    "link": "https://www.embrapa.br/busca-de-publicacoes/-/publicacao/809780/hortela",
+    "tags": [
+      "Mentha spicata",
+      "indigestão",
+      "gases",
+      "dor-de-cabeça",
+      "chá",
+      "folhas",
+      "frescor"
+    ]
+  },
+  {
+    "nome": "Camomila",
+    "nome_cientifico": "Matricaria chamomilla",
+    "parte_utilizada": "Flores",
+    "beneficios": "Calmante natural, auxilia no tratamento de ansiedade, insônia e alivia cólicas.",
+    "modo_de_uso": "Infusão (chá) ou compressa com o chá frio.",
+    "dosagem": "1 xícara antes de dormir ou até 2x ao dia.",
+    "contraindicacoes": "Evitar em pessoas alérgicas a plantas da família Asteraceae.",
+    "efeitos_colaterais": "Pode causar sonolência e, raramente, alergias.",
+    "curiosidade": "A camomila é usada há mais de 2.000 anos por suas propriedades relaxantes.",
+    "link": "https://www.embrapa.br/busca-geral/-/busca/camomila?buscaPortal=camomila",
+    "tags": [
+      "Matricaria chamomilla",
+      "calmante",
+      "ansiedade",
+      "insônia",
+      "cólicas",
+      "chá",
+      "relaxante",
+      "flores"
+    ]
+  },
+  {
+    "nome": "Alecrim",
+    "nome_cientifico": "Rosmarinus officinalis",
+    "parte_utilizada": "Folhas e flores",
+    "modo_de_uso": "Infusão (chá) ou óleo essencial",
+    "dosagem": "1 colher de chá de folhas secas para 1 xícara de água, até 3x ao dia.",
+    "beneficios": "Estimulante mental, melhora a memória, alivia dores musculares e melhora a digestão.",
+    "contraindicacoes": "Epilepsia, hipertensão arterial, uso noturno (pode causar insônia) e gestantes.",
+    "efeitos_colaterais": "Em doses elevadas, pode causar irritação gástrica e convulsões.",
+    "curiosidade": "Na antiguidade, era usado para coroar estudantes gregos para melhorar o desempenho em exames.",
+    "link": "https://www.embrapa.br/busca-geral/-/busca/alecrim?buscaPortal=alecrim",
+    "tags": [
+      "Rosmarinus officinalis",
+      "estimulante",
+      "memória",
+      "digestão",
+      "antioxidante"
+    ]
+  },
+  {
+    "nome": "Espinheira-santa",
+    "nome_cientifico": "Maytenus ilicifolia",
+    "parte_utilizada": "Folhas",
+    "modo_de_uso": "Infusão (chá)",
+    "dosagem": "1 xícara das folhas secas 30 minutos antes das principais refeições, 2x ao dia.",
+    "beneficios": "Proteção gástrica, tratamento de úlceras e gastrite, e alívio de azia.",
+    "contraindicacoes": "Gestantes, lactantes e crianças pequenas.",
+    "efeitos_colaterais": "Pode reduzir a produção de leite materno.",
+    "curiosidade": "Seu nome popular deriva do formato espinhoso de suas folhas, que lembram as do azevinho.",
+    "link": "https://www.saude.df.gov.br/documents/37101/1118391/FOLHETO-ESPINHEIRA-SANTA.pdf/a5e3cf82-2294-ff73-c1b9-0a2e960ac4a6?t=1652136748034",
+    "tags": [
+      "Maytenus ilicifolia",
+      "gastrite",
+      "azia",
+      "cicatrizante",
+      "protetor gástrico"
+    ]
+  },
+  {
+    "nome": "Calêndula",
+    "nome_cientifico": "Calendula officinalis",
+    "parte_utilizada": "Flores",
+    "modo_de_uso": "Infusão, tintura, pomadas e compressas.",
+    "dosagem": "Uso tópico: aplicar a pomada de 2 a 3 vezes ao dia na área afetada.",
+    "beneficios": "Ação anti-inflamatória, cicatrizante e antisséptica. Excelente para tratar queimaduras leves e irritações da pele.",
+    "contraindicacoes": "Pessoas alérgicas a plantas da família Asteraceae (margaridas, crisântemos).",
+    "efeitos_colaterais": "Raramente, pode causar dermatite de contato em pessoas sensíveis.",
+    "curiosidade": "É frequentemente chamada de 'a aspirina dos pobres' por suas propriedades anti-inflamatórias e analgésicas leves.",
+    "link": "https://hortodidatico.ufsc.br/calendula/",
+    "tags": [
+      "Calendula officinalis",
+      "cicatrizante",
+      "anti-inflamatório",
+      "dermatológico",
+      "antisséptico"
+    ]
+  },
+  {
+    "nome": "Gengibre",
+    "nome_cientifico": "Zingiber officinale",
+    "parte_utilizada": "Rizoma (raiz)",
+    "modo_de_uso": "Infusão, decocção, suco ou em pó.",
+    "dosagem": "Até 4 gramas de rizoma fresco por dia, divididos em doses.",
+    "beneficios": "Anti-inflamatório potente, alivia náuseas e vômitos, melhora a digestão e combate resfriados.",
+    "contraindicacoes": "Pessoas com cálculos biliares ou que utilizam anticoagulantes em doses elevadas.",
+    "efeitos_colaterais": "Pode causar azia ou irritação gástrica em excesso.",
+    "curiosidade": "O Gengibre é cultivado há mais de 3.000 anos e foi uma das primeiras especiarias a ser exportada da Ásia.",
+    "link": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/984005/1/Foldergengibre.pdf",
+    "tags": [
+      "Zingiber officinale",
+      "anti-inflamatório",
+      "antiemético",
+      "digestão",
+      "antigripal"
+    ]
+  },
+  {
+    "nome": "Capim-limão (Capim-santo)",
+    "nome_cientifico": "Cymbopogon citratus",
+    "parte_utilizada": "Folhas",
+    "modo_de_uso": "Infusão (chá).",
+    "dosagem": "1 xícara, até 3 vezes ao dia.",
+    "beneficios": "Calmante, ansiolítico, sedativo leve e alivia distúrbios digestivos como flatulência.",
+    "contraindicacoes": "Hipotensão e uso em excesso durante a gravidez.",
+    "efeitos_colaterais": "Geralmente seguro. Pode causar sonolência em doses elevadas.",
+    "curiosidade": "Apesar do nome, o Capim-limão não está relacionado ao limão, mas possui um forte aroma cítrico devido ao seu teor de citral.",
+    "link": "https://www.embrapa.br/busca-geral/-/busca/capim-lim%C3%A3o?buscaPortal=capim-lim%C3%A3o",
+    "tags": [
+      "Cymbopogon citratus",
+      "calmante",
+      "ansiolítico",
+      "digestão",
+      "sedativo"
+    ]
+  },
+  {
+    "nome": "Alho",
+    "nome_cientifico": "Allium sativum",
+    "parte_utilizada": "Bulbo",
+    "modo_de_uso": "Cru (ingestão), tintura ou cápsulas.",
+    "dosagem": "Um a dois dentes de alho cru por dia.",
+    "beneficios": "Antibacteriano, antiviral, melhora a saúde cardiovascular e ajuda a reduzir o colesterol e a pressão arterial.",
+    "contraindicacoes": "Pessoas com problemas de coagulação ou que farão cirurgia. Uso excessivo pode causar sangramento.",
+    "efeitos_colaterais": "Mau hálito, odor corporal e, em casos raros, náuseas.",
+    "curiosidade": "Durante a construção das pirâmides egípcias, o alho era dado aos trabalhadores para aumentar a força e a resistência e prevenir doenças.",
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9978857/",
+    "tags": [
+      "Allium sativum",
+      "cardiovascular",
+      "antibiótico natural",
+      "colesterol",
+      "imunidade"
+    ]
+  },
+  {
+    "nome": "Arnica",
+    "nome_cientifico": "Arnica montana",
+    "parte_utilizada": "Flores",
+    "modo_de_uso": "Uso externo: compressas, pomadas, géis e tinturas.",
+    "dosagem": "Uso tópico: aplicar o gel ou pomada de 2 a 4 vezes ao dia na área afetada.",
+    "beneficios": "Potente anti-inflamatório e analgésico para hematomas, contusões e dores musculares.",
+    "contraindicacoes": "NUNCA usar internamente. Não aplicar em feridas abertas ou pele lesionada. Gestantes e lactantes.",
+    "efeitos_colaterais": "Uso interno pode ser fatal. Uso tópico pode causar irritação ou dermatite em peles sensíveis.",
+    "curiosidade": "É popularmente conhecida como a 'planta dos atletas' por sua eficácia no tratamento de lesões esportivas.",
+    "link": "https://eic.ifsc.usp.br/arnica-brasileira/",
+    "tags": [
+      "Arnica montana",
+      "analgésico",
+      "anti-inflamatório",
+      "traumatismos",
+      "uso tópico"
+    ]
+  },
+  {
+    "nome": "Barbatimão",
+    "nome_cientifico": "Stryphnodendron adstringens",
+    "parte_utilizada": "Casca",
+    "modo_de_uso": "Decocção, tintura, banhos de assento.",
+    "dosagem": "Decocção: 1 colher de chá de casca triturada em 200 ml de água. Usar em banhos de assento 1x ao dia.",
+    "beneficios": "Adstringente potente, cicatrizante, antisséptico e anti-inflamatório, usado principalmente para tratar infecções vaginais e feridas.",
+    "contraindicacoes": "Gestantes, lactantes e pessoas com problemas gastrointestinais graves.",
+    "efeitos_colaterais": "Pode causar náuseas se ingerido em excesso. Uso tópico excessivo pode ressecar a pele.",
+    "curiosidade": "Seu nome 'adstringens' refere-se à sua forte capacidade de contrair os tecidos, devido ao alto teor de taninos.",
+    "link": "https://www.tuasaude.com/barbatimao/",
+    "tags": [
+      "Stryphnodendron adstringens",
+      "adstringente",
+      "cicatrizante",
+      "antisséptico",
+      "saúde feminina"
+    ]
+  },
+  {
+    "nome": "Cavalinha",
+    "nome_cientifico": "Equisetum arvense",
+    "parte_utilizada": "Caules estéreis",
+    "modo_de_uso": "Decocção ou tintura.",
+    "dosagem": "1 a 2 xícaras da decocção por dia, por no máximo 1 semana.",
+    "beneficios": "Diurético suave, ajuda na eliminação de líquidos, mineralizante (rico em silício), e auxilia na saúde dos ossos, cabelos e unhas.",
+    "contraindicacoes": "Insuficiência cardíaca ou renal, e uso prolongado (pode causar deficiência de Tiamina).",
+    "efeitos_colaterais": "Pode causar diarreia ou irritação gástrica em uso excessivo.",
+    "curiosidade": "É uma das plantas mais antigas do planeta, sendo descendente de árvores gigantes que existiram há milhões de anos.",
+    "link": "https://www.plantasmedicinais.com.br/cavalinha",
+    "tags": [
+      "Equisetum arvense",
+      "diurético",
+      "saúde óssea",
+      "reminalizante",
+      "retenção de líquido"
+    ]
+  },
+  {
+    "nome": "Dente-de-leão",
+    "nome_cientifico": "Taraxacum officinale",
+    "parte_utilizada": "Folhas e raízes",
+    "modo_de_uso": "Infusão (folhas) ou decocção (raiz), suco fresco.",
+    "dosagem": "1 xícara, 2 a 3 vezes ao dia.",
+    "beneficios": "Hepatoprotetor, diurético, estimula a produção e fluxo da bile e é rico em vitaminas e minerais.",
+    "contraindicacoes": "Obstrução dos ductos biliares, cálculos renais e alergia a plantas da família Asteraceae.",
+    "efeitos_colaterais": "Pode causar hiperacidez ou desconforto gástrico em pessoas sensíveis.",
+    "curiosidade": "Todas as partes da planta são comestíveis, e as raízes torradas podem ser usadas como um substituto do café sem cafeína.",
+    "link": "https://www.usp.br/dentedeleao",
+    "tags": [
+      "Taraxacum officinale",
+      "hepático",
+      "diurético",
+      "detox",
+      "digestão"
+    ]
+  },
+  {
+    "nome": "Erva-doce (Funcho)",
+    "nome_cientifico": "Foeniculum vulgare",
+    "parte_utilizada": "Sementes",
+    "modo_de_uso": "Infusão (chá das sementes).",
+    "dosagem": "1 colher de chá de sementes para 1 xícara de água, após as refeições, 2x ao dia.",
+    "beneficios": "Carminativo (alivia gases e inchaço), antiespasmódico, e auxilia na digestão lenta.",
+    "contraindicacoes": "Gestantes (em altas doses), pessoas com hiperestrogenismo e epilepsia.",
+    "efeitos_colaterais": "Raramente, pode causar reações alérgicas ou fotossensibilidade.",
+    "curiosidade": "Na mitologia grega, o funcho estava associado ao conhecimento e à coragem. Os romanos usavam-no para temperar e conservar carnes.",
+    "link": "https://www.plantasmedicinais.com.br/ervadoce",
+    "tags": [
+      "Foeniculum vulgare",
+      "carminativo",
+      "digestão",
+      "cólicas",
+      "antiespasmódico"
+    ]
+  },
+  {
+    "nome": "Guaco",
+    "nome_cientifico": "Mikania glomerata",
+    "parte_utilizada": "Folhas",
+    "modo_de_uso": "Infusão ou xarope.",
+    "dosagem": "Xarope: 1 colher de sopa, 3x ao dia.",
+    "beneficios": "Expectorante, broncodilatador e antiasmático. Usado para tratar tosse, bronquite e resfriados.",
+    "contraindicacoes": "Gestantes (especialmente no primeiro trimestre), lactantes, e pessoas em tratamento com anticoagulantes.",
+    "efeitos_colaterais": "Em doses elevadas, pode causar vômitos e diarreia devido à toxicidade cumarínica.",
+    "curiosidade": "É uma das poucas plantas brasileiras com estudos clínicos robustos que comprovam sua eficácia como broncodilatador.",
+    "link": "https://www.saude.df.gov.br/documents/37101/1118391/FOLHETO-CAVALINHA.pdf/0e322406-6a42-ab43-2931-499f3858e581?t=1652136750042",
+    "tags": [
+      "Mikania glomerata",
+      "expectorante",
+      "broncodilatador",
+      "tosse",
+      "resfriado"
+    ]
+  },
+  {
+    "nome": "Melissa (Erva-cidreira)",
+    "nome_cientifico": "Melissa officinalis",
+    "parte_utilizada": "Folhas e flores",
+    "modo_de_uso": "Infusão (chá) ou tintura.",
+    "dosagem": "1 xícara de infusão antes de dormir ou até 3x ao dia para ansiedade leve.",
+    "beneficios": "Ansiolítico, sedativo leve, melhora a qualidade do sono e alivia sintomas de estresse.",
+    "contraindicacoes": "Hipotireoidismo (pode interferir na absorção de hormônios tireoidianos) e glaucoma.",
+    "efeitos_colaterais": "Sonolência excessiva e, raramente, reações alérgicas.",
+    "curiosidade": "O nome 'Melissa' vem do grego e significa 'abelha melífera', pois suas flores são muito atrativas para as abelhas.",
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5871149/",
+    "tags": [
+      "Melissa officinalis",
+      "ansiedade",
+      "insônia",
+      "calmante",
+      "sedativo"
+    ]
+  },
+  {
+    "nome": "Sálvia",
+    "nome_cientifico": "Salvia officinalis",
+    "parte_utilizada": "Folhas",
+    "modo_de_uso": "Infusão, tintura, gargarejo ou tempero.",
+    "dosagem": "Infusão: 1 colher de chá em 150 ml de água. Não exceder 2 xícaras por dia.",
+    "beneficios": "Alívio dos sintomas da menopausa (ondas de calor), ação antisséptica e anti-inflamatória em garganta e boca.",
+    "contraindicacoes": "Gestantes, lactantes, pessoas com epilepsia e em uso de medicamentos sedativos.",
+    "efeitos_colaterais": "Doses excessivas e uso prolongado podem ser neurotóxicos devido à tuiona.",
+    "curiosidade": "O nome 'Salvia' deriva do latim 'salvare', que significa 'curar' ou 'salvar', indicando seu valor medicinal desde a antiguidade.",
+    "link": "https://www.tuasaude.com/salvia/",
+    "tags": [
+      "Salvia officinalis",
+      "menopausa",
+      "antisséptico",
+      "anti-inflamatório",
+      "gargarejo"
+    ]
+  },
+  {
+    "nome": "Aroeira",
+    "nome_cientifico": "Schinus terebinthifolius",
+    "parte_utilizada": "Casca",
+    "modo_de_uso": "Decocção para uso tópico (lavagens e banhos de assento).",
+    "dosagem": "Uso tópico: 10g da casca em 1 litro de água para decocção. Utilizar morno 1x ao dia.",
+    "beneficios": "Anti-inflamatório, cicatrizante e adstringente. Excelente para o tratamento de feridas, úlceras e candidíase.",
+    "contraindicacoes": "Uso interno (pode ser irritante e tóxico). Pessoas sensíveis podem apresentar dermatite de contato.",
+    "efeitos_colaterais": "Irritação da mucosa se utilizado internamente. Dermatite de contato (uso externo).",
+    "curiosidade": "É conhecida como 'pimenta rosa' em algumas regiões, mas deve ser manuseada com cautela devido aos taninos da casca.",
+    "link": "https://hortodidatico.ufsc.br/aroeira/",
+    "tags": [
+      "Schinus terebinthifolius",
+      "cicatrizante",
+      "antifúngico",
+      "uso tópico",
+      "adstringente"
+    ]
+  },
+  {
+    "nome": "Carqueja",
+    "nome_cientifico": "Baccharis trimera",
+    "parte_utilizada": "Caules e folhas",
+    "modo_de_uso": "Infusão (chá).",
+    "dosagem": "1 xícara, 2 a 3 vezes ao dia, preferencialmente antes das refeições.",
+    "beneficios": "Digestiva, depurativa, hepatoprotetora, e auxilia no controle da glicemia.",
+    "contraindicacoes": "Hipotensão, gestantes e lactantes. Pessoas com diabetes devem monitorar a glicemia de perto.",
+    "efeitos_colaterais": "Pode causar irritação gástrica ou hipotensão em doses elevadas.",
+    "curiosidade": "A Carqueja não possui folhas verdadeiras; o que se parece com folhas são na verdade caules alados (filocládios).",
+    "link": "https://www.tuasaude.com/carqueja/",
+    "tags": [
+      "Baccharis trimera",
+      "hepático",
+      "digestão",
+      "depurativo",
+      "hipoglicemiante"
+    ]
+  },
+  {
+    "nome": "Ginkgo Biloba",
+    "nome_cientifico": "Ginkgo biloba",
+    "parte_utilizada": "Folhas",
+    "modo_de_uso": "Cápsulas ou extrato padronizado.",
+    "dosagem": "60 a 240 mg de extrato padronizado por dia, divididos em 2 a 3 doses.",
+    "beneficios": "Melhora a circulação cerebral e periférica, otimiza a concentração e a memória (especialmente em idosos).",
+    "contraindicacoes": "Pessoas que utilizam anticoagulantes (Warfarin, Aspirina), gestantes e lactantes.",
+    "efeitos_colaterais": "Dor de cabeça, tontura, palpitações e risco aumentado de sangramento.",
+    "curiosidade": "É considerada um 'fóssil vivo', sendo a única espécie sobrevivente de uma ordem de plantas que data de 270 milhões de anos.",
+    "link": "https://www-ncbi-nlm-nih-gov.translate.goog/books/NBK541024/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc",
+    "tags": [
+      "Ginkgo biloba",
+      "cognitivo",
+      "circulação",
+      "memória",
+      "antioxidante"
+    ]
+  },
+  {
+    "nome": "Hipérico (Erva de São João)",
+    "nome_cientifico": "Hypericum perforatum",
+    "parte_utilizada": "Partes aéreas floridas",
+    "modo_de_uso": "Cápsulas, tintura ou infusão.",
+    "dosagem": "300 mg de extrato padronizado (0,3% de hipericina), 3 vezes ao dia.",
+    "beneficios": "Antidepressivo leve a moderado, ansiolítico e estabilizador do humor.",
+    "contraindicacoes": "Depressão grave, uso simultâneo de outros antidepressivos, contraceptivos orais e medicamentos para HIV (pode anular o efeito).",
+    "efeitos_colaterais": "Fotossensibilidade (sensibilidade ao sol), boca seca e interações medicamentosas graves.",
+    "curiosidade": "Tradicionalmente colhida na véspera do Dia de São João, daí seu nome popular em muitas culturas.",
+    "link": "https://www.tuasaude.com/erva-de-sao-joao/",
+    "tags": [
+      "Hypericum perforatum",
+      "antidepressivo",
+      "humor",
+      "ansiedade",
+      "nervosismo"
+    ]
+  },
+  {
+    "nome": "Jurubeba",
+    "nome_cientifico": "Solanum paniculatum",
+    "parte_utilizada": "Folhas e raízes",
+    "modo_de_uso": "Decocção ou tintura.",
+    "dosagem": "1 xícara da decocção 3 vezes ao dia, antes das refeições.",
+    "beneficios": "Tônico digestivo, estimulante hepático, e auxilia no tratamento de doenças do fígado e baço.",
+    "contraindicacoes": "Gestantes, lactantes, hipertensão arterial (devido à ação estimulante) e pessoas com úlceras gástricas.",
+    "efeitos_colaterais": "Seu sabor amargo pode causar náuseas e vômitos em algumas pessoas. Uso excessivo pode ser tóxico.",
+    "curiosidade": "É uma planta nativa do Brasil, tradicionalmente usada como amargo para abrir o apetite e curar 'ressacas'.",
+    "link": "https://florien.com.br/wp-content/uploads/2016/06/JURUBEBA.pdf",
+    "tags": [
+      "Solanum paniculatum",
+      "hepático",
+      "tônico",
+      "digestão",
+      "amargo"
+    ]
+  },
+  {
+    "nome": "Pfaffia (Ginseng Brasileiro)",
+    "nome_cientifico": "Pfaffia paniculata",
+    "parte_utilizada": "Raiz",
+    "modo_de_uso": "Cápsulas de pó ou extrato seco.",
+    "dosagem": "500 mg, 2 vezes ao dia.",
+    "beneficios": "Adaptógeno (ajuda o corpo a lidar com o estresse), aumenta a resistência física e melhora o desempenho imunológico.",
+    "contraindicacoes": "Gestantes, lactantes e pessoas com câncer dependente de hormônio.",
+    "efeitos_colaterais": "Geralmente seguro. Em doses elevadas, pode causar leve insônia.",
+    "curiosidade": "Embora não seja um ginseng verdadeiro (que pertence ao gênero Panax), é chamada assim por suas poderosas propriedades adaptogênicas e tônicas.",
+    "link": "https://pt.wikipedia.org/wiki/Ginseng-brasileiro",
+    "tags": [
+      "Pfaffia paniculata",
+      "adaptógeno",
+      "energia",
+      "imunidade",
+      "vitalidade"
+    ]
+  },
+  {
+    "nome": "Mil-folhas",
+    "nome_cientifico": "Achillea millefolium",
+    "parte_utilizada": "Partes aéreas (folhas e flores)",
+    "modo_de_uso": "Infusão ou tintura.",
+    "dosagem": "Infusão: 1 colher de sopa de partes aéreas em 200 ml de água, até 3x ao dia.",
+    "beneficios": "Antiespasmódico (para cólicas menstruais e digestivas), anti-inflamatório e febrífugo.",
+    "contraindicacoes": "Gestantes, lactantes e pessoas alérgicas à família Asteraceae. Não usar em caso de úlceras gástricas.",
+    "efeitos_colaterais": "Pode causar sonolência e aumentar a sensibilidade ao sol (fotossensibilidade).",
+    "curiosidade": "O nome do gênero (Achillea) deriva de Aquiles, herói grego que teria usado a planta para estancar o sangramento de seus soldados.",
+    "link": "https://pt.wikipedia.org/wiki/Milef%C3%B3lio",
+    "tags": [
+      "Achillea millefolium",
+      "antiespasmódico",
+      "cólicas",
+      "anti-inflamatório",
+      "febrífugo"
+    ]
+  },
+  {
+    "nome": "Babosa (Aloe Vera)",
+    "nome_cientifico": "Aloe barbadensis Miller",
+    "parte_utilizada": "Gel (interno da folha) e látex (casca)",
+    "modo_de_uso": "Gel: uso tópico (queimaduras) ou ingestão (suco). Látex: laxante.",
+    "dosagem": "Uso tópico conforme necessidade. Ingestão do gel: 10-20 ml do suco puro 1x ao dia.",
+    "beneficios": "Cicatrizante, hidratante, anti-inflamatório (gel). Laxante poderoso (látex).",
+    "contraindicacoes": "Ingestão do látex por gestantes, lactantes, crianças e pessoas com doença intestinal inflamatória.",
+    "efeitos_colaterais": "O látex pode causar diarreia severa e cólicas. O gel (uso interno) pode causar alergias.",
+    "curiosidade": "O gel é composto por cerca de 99% de água e o restante são glicoproteínas, vitaminas, minerais e enzimas.",
+    "link": "https://www.tuasaude.com/beneficios-do-aloe-vera/",
+    "tags": [
+      "Aloe barbadensis Miller",
+      "cicatrizante",
+      "dermatológico",
+      "laxante",
+      "anti-inflamatório"
+    ]
+  },
+  {
+    "nome": "Centella Asiática",
+    "nome_cientifico": "Centella asiatica",
+    "parte_utilizada": "Folhas e caules",
+    "modo_de_uso": "Infusão, tintura, cápsulas e pomadas.",
+    "dosagem": "Extrato padronizado: 60-120 mg por dia.",
+    "beneficios": "Melhora a circulação venosa, reduz celulite, auxilia na cicatrização de feridas e é um tônico cerebral leve.",
+    "contraindicacoes": "Gestantes, lactantes e pessoas com problemas hepáticos ou que fazem uso de sedativos.",
+    "efeitos_colaterais": "Pode causar irritação gástrica ou dor de cabeça em doses elevadas.",
+    "curiosidade": "Na Índia, é conhecida como Brahmi e é reverenciada como uma erva rejuvenescedora e promotora da longevidade.",
+    "link": "https://www.tuasaude.com/beneficios-da-centelha-asiatica/",
+    "tags": [
+      "Centella asiatica",
+      "circulação",
+      "celulite",
+      "cicatrizante",
+      "cognitivo"
+    ]
+  },
+  {
+    "nome": "Jamelão",
+    "nome_cientifico": "Syzygium cumini",
+    "parte_utilizada": "Folhas e casca",
+    "modo_de_uso": "Decocção (casca) ou infusão (folhas).",
+    "dosagem": "1 xícara da infusão de folhas, 2 a 3 vezes ao dia.",
+    "beneficios": "Adstringente, antidiarreico e auxiliar no controle dos níveis de açúcar no sangue (hipoglicemiante).",
+    "contraindicacoes": "Pessoas que já utilizam medicamentos para diabetes (risco de hipoglicemia severa) e gestantes.",
+    "efeitos_colaterais": "Risco de hipoglicemia se usado em excesso ou combinado com medicação. Constipação (devido à ação adstringente).",
+    "curiosidade": "Seu fruto mancha intensamente a língua e os dentes de roxo, sendo tradicionalmente usado para tratar feridas na boca.",
+    "link": "https://www.infoteca.cnptia.embrapa.br/bitstream/doc/746899/1/boletim79.pdf",
+    "tags": [
+      "Syzygium cumini",
+      "hipoglicemiante",
+      "diabetes",
+      "adstringente",
+      "antidiarreico"
+    ]
+  },
+  {
+    "nome": "Nogueira",
+    "nome_cientifico": "Juglans regia",
+    "parte_utilizada": "Folhas e casca",
+    "modo_de_uso": "Infusão (folhas) ou tintura.",
+    "dosagem": "Infusão: 1 xícara, 2 vezes ao dia (uso interno). Decocção (casca) para uso tópico.",
+    "beneficios": "Adstringente, antifúngico e anti-inflamatório. Usado para tratar dermatites, eczemas e infecções fúngicas.",
+    "contraindicacoes": "Gestantes, lactantes e pessoas com sensibilidade aos taninos.",
+    "efeitos_colaterais": "Pode causar irritação gástrica. O uso tópico prolongado pode ressecar a pele.",
+    "curiosidade": "A Nogueira produz uma substância química chamada juglona, que inibe o crescimento de outras plantas ao redor (alelopatia), protegendo seu território.",
+    "link": "https://florien.com.br/wp-content/uploads/2016/06/NOGUEIRA.pdf",
+    "tags": [
+      "Juglans regia",
+      "antifúngico",
+      "adstringente",
+      "dermatológico",
+      "eczema"
+    ]
+  },
+
+    {
+    "nome": "Unha-de-Gato",
+    "nome_cientifico": "Uncaria tomentosa",
+    "parte_utilizada": "Casca e raízes",
+    "beneficios": "Ação anti-inflamatória, imunomoduladora, auxilia em dores articulares e artrite.",
+    "modo_de_uso": "Decocção (chá) da casca ou cápsulas padronizadas.",
+    "dosagem": "Chá: 1 xícara até 2x ao dia; Cápsulas: conforme orientação do fabricante",
+    "contraindicacoes": "Gestantes, lactantes, transplantados e pessoas que usam imunossupressores.",
+    "efeitos_colaterais": "Dor de cabeça leve, náuseas ou diarreia em pessoas sensíveis.",
+    "curiosidade": "Recebe esse nome pelas pequenas ‘garras’ nos ramos, que lembram a pata de um gato.",
+    "link": "https://florien.com.br/wp-content/uploads/2016/06/UNHA-DE-GATO.pdf",
+    "tags": [
+      "Uncaria tomentosa",
+      "anti-inflamatório",
+      "imunidade",
+      "artrite",
+      "fitoterapia"
+    ]
+  },
+
+  {
+    "nome": "Equinácea",
+    "nome_cientifico": "Echinacea purpurea",
+    "parte_utilizada": "Raiz e parte aérea",
+    "beneficios": "Fortalece o sistema imunológico, ajuda na prevenção de gripes e resfriados.",
+    "modo_de_uso": "Infusão das partes aéreas ou extrato da raiz.",
+    "dosagem": "Chá: 1 xícara até 2x ao dia; Extrato: conforme rótulo",
+    "contraindicacoes": "Pessoas com doenças autoimunes ou alergia a Asteraceae devem evitar.",
+    "efeitos_colaterais": "Pode causar leve dormência na boca ou reações alérgicas raras.",
+    "curiosidade": "Era amplamente usada pelos povos indígenas norte-americanos para tratar infecções.",
+    "link": "https://www.tuasaude.com/equinacea/",
+    "tags": [
+      "Echinacea purpurea",
+      "imunidade",
+      "resfriado",
+      "gripe",
+      "planta-medicinal"
+    ]
+  }
+]
