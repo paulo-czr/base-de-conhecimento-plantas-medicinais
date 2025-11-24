@@ -5,14 +5,14 @@
 }
 
 :root {
-  --primary-color: #177546; /* Verde escuro profundo — ótimo para textos e títulos */
-  --secondary-color: #2e7d32; /* Verde vivo porém sóbrio — ideal para botões e destaques */
-  --tertiary-color: #81c784; /* Verde claro com boa leitura sobre branco */
+  --primary-color: #177546;
+  --secondary-color: #2e7d32;
+  --tertiary-color: #81c784;
 
-  --bg-color: #e8f8f0; /* Mantém o fundo branco para máxima leitura */
-  --card-bg: #f9f9f9; /* Leve contraste, sem ficar “cinza sujo” */
+  --bg-color: #e8f8f0;
+  --card-bg: #f9f9f9;
 
-  --border-color: #cfe8d4; /* Verde clarinho e limpo, borda sutil */
+  --border-color: #cfe8d4;
 }
 
 body {
@@ -64,7 +64,6 @@ header {
   flex-grow: 1;
 }
 
-/* Responsividade */
 @media (max-width: 768px) {
   .header-content {
     flex-direction: column;
@@ -97,10 +96,10 @@ header h1 {
 
 header p {
   font-size: 0.9rem;
-  margin: 0.25rem 0 0 0; /* Margem apenas no topo */
-  font-weight: 400; /* Mudei para 400 para ficar mais suave */
+  margin: 0.25rem 0 0 0;
+  font-weight: 400;
   white-space: nowrap;
-  color: var(--secondary-color-color); /* Mudei para tertiary para contraste */
+  color: var(--secondary-color-color);
   text-align: left;
   line-height: 1.3;
 }
@@ -260,27 +259,23 @@ article.card a:hover::after {
   transform: translateX(2px);
 }
 
-/* Layout específico para informações importantes */
 article.card section:nth-child(3),
 article.card section:nth-child(4) {
   background: rgba(138, 180, 248, 0.08);
   border-left-color: #4caf50;
 }
 
-/* Seções de alerta */
 article.card section:nth-child(6),
 article.card section:nth-child(7) {
   background: rgba(255, 113, 113, 0.08);
   border-left-color: #f44336;
 }
 
-/* Efeito colaterais com estilo diferente */
 article.card section.efeitos_colaterais {
   background: rgba(255, 193, 7, 0.08);
   border-left-color: #ffc107;
 }
 
-/* Curiosidade com estilo diferente */
 article.card section.curiosidade {
   background: rgba(138, 180, 248, 0.08);
   border-left-color: #519ddb;
@@ -317,7 +312,6 @@ article.card section.curiosidade {
   color: var(--primary-color);
 }
 
-/* Estados vazios e loading */
 .card-container:empty::before {
   content: "🔍 Digite o nome de uma planta para buscar...";
   display: block;
@@ -327,7 +321,6 @@ article.card section.curiosidade {
   padding: 3rem;
 }
 
-/* Responsividade */
 @media (max-width: 768px) {
   header {
     flex-direction: column;
@@ -382,3 +375,4 @@ article.card section.curiosidade {
     flex-direction: column;
   }
 }
+
