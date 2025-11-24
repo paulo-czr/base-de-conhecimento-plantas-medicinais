@@ -2,6 +2,12 @@ let cardContainer = document.querySelector(".card-container");
 let dados = [];
 let inputBusca = document.querySelector("input");
 
+/**
+ * Função principal de busca
+ * - Carrega o JSON
+ * - Filtra resultados pelo termo digitado
+ * - Renderiza os cards de acordo com a busca
+ */
 async function iniciarBusca() {
   console.log("Função iniciarBusca chamada");
 
@@ -48,6 +54,10 @@ async function iniciarBusca() {
   }
 }
 
+/**
+ * Renderiza os cards de plantas na tela
+ * @param {Array} dados - Recebe a lista de plantas (todas ou filtradas)
+ */
 function renderizarCards(dados) {
   console.log("Renderizando cards:", dados.length);
 
@@ -109,7 +119,10 @@ function renderizarCards(dados) {
   console.log("Cards renderizados com sucesso");
 }
 
-// Adicione busca ao pressionar Enter
+/**
+ * Detecta quando o usuário pressiona ENTER no campo de busca
+ * e executa a função iniciarBusca()
+ */
 inputBusca.addEventListener("keypress", function (event) {
   if (event.key === "Enter") {
     console.log("Enter pressionado");
@@ -117,8 +130,11 @@ inputBusca.addEventListener("keypress", function (event) {
   }
 });
 
-// Carrega todos os dados ao iniciar a página
+/**
+ * Executa a busca inicial assim que o DOM terminar de carregar
+ */
 document.addEventListener("DOMContentLoaded", function () {
   console.log("DOM carregado - iniciando busca inicial");
   iniciarBusca();
 });
+
